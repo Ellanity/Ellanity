@@ -1,13 +1,14 @@
 ### 👋 About me 
 <div>
     <table style="padding: 0;">
-        <tr style="padding: 0; border: 0;">
+        <tr style="
+            padding: 0; 
+            border-color: transparent;">
             <td valign="top"
                 style="
                     padding: 0; 
-                    border: 0;
-                    max-width: 40vw;
-                    height: 100%;
+                    border-color: transparent; 
+                    max-width: 40vh;
                     " >
                 <!--src="https://github.com/Ellanity/Ellanity/assets/60664484/5ffcd3e7-5751-4bd1-a72f-a2f2fe41e4a2"-->
                 <img
@@ -15,12 +16,11 @@
                     alt="my_pic" 
                     style="
                         margin: 0; 
-                        padding: 0; 
-                        height: 100%"/>
+                        padding: 0"/>
             </td>
             <td valign="top" 
                 style="
-                    border: 0; 
+                    border-color: transparent; 
                     padding-top: 0;">
                 <div style="
                     padding: 0; 

@@ -10,8 +10,8 @@
                     height: 100%;
                     " >
                 <!--src="https://github.com/Ellanity/Ellanity/assets/60664484/5ffcd3e7-5751-4bd1-a72f-a2f2fe41e4a2"-->
-                <img 
-                    src="./IMG_3168.JPG" 
+                <img
+                    src="./IMG_3168_2.JPG" 
                     alt="my_pic" 
                     style="
                         margin: 0; 
@@ -65,7 +65,7 @@
     
     + I work with a CNC machine. I connect my pc to it via usb, use python, pyserial to send g-code commands. I need to understand how to instantly interrupt the current command (clear the buffer) and start a new one command.
 
-<!-- https://github.com/thombashi/pytablewriter/issues/13 -->
+<!-- https://github.com/thombashi/pytablewriter/issues/13 
 <script>
     import pytablewriter as ptw
     from pytablewriter.style import Style
@@ -95,4 +95,4 @@
         ],
     )
     writer.write_table()
-</script>
+</script>-->

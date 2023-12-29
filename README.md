@@ -31,6 +31,7 @@
                     <p> 
                         ✨ I studied at the 
                         <a class="chaise-btn chaise-btn-secondary chaise-btn-iframe" href="https://www.bsuir.by/"><span class="chaise-btn-icon fullscreen-icon"></span><span>BSUIR University</span></a> (2020 - 2024)
+                        Faculty of Information Technology and Management, specialty Artificial Intelligence.
                     </p> 
                     <p> 
                         ✨ In school received a prize-winning diploma in regional olympiads in sports programming
@@ -64,6 +65,7 @@
 - 🤔 I'm looking for help with:
     
     + I work with a CNC machine. I connect my pc to it via usb, use python, pyserial to send g-code commands. I need to understand how to instantly interrupt the current command (clear the buffer) and start a new one command.
+    + PS. I found info about CNC jogging. Now I'm trying to apply this to solving my problem.
 
 <!-- https://github.com/thombashi/pytablewriter/issues/13 
 <script>

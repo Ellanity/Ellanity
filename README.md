@@ -47,16 +47,18 @@
 </div>
 
 
-- 🔭 I'am currently working on [Kruapan](https://dev.kruapan.com) project
+- 🔭 I'am currently working on [My own](https://dev.kruapan.com) project
 - 🌱 I'm currently learning: Vue, React
 - 💬 Ask me about: 
     + Python (Pure, Django, AI, ML)
-    + Web (JS, HTML, CSS)  
+    + Web (JS, HTML, CSS, Vue)
+    + BD (SQL, Neo4j, Protege, Virtuoso) 
     + Unity (C#, Blender, MagicVoxel) 
         
         [My game Elpaca Tower](https://play.google.com/store/apps/details?id=com.Paplauski.Tower&pli=1)
     
-    + And a lot of more 
+    + Design (Figma, Photoshop)
+    + GRBL, Docker, Nginx and more other themes ...
 - 📫 How to reach me: 
     + <eldarpoplauski111@gmail.com>
     + <https://www.linkedin.com/feed/> 

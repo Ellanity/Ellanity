@@ -52,6 +52,9 @@
 - 💬 Ask me about: 
     + Python (Pure, Django, AI, ML)
     + Web (JS, HTML, CSS, Vue)
+
+        [Finished PC version of web project](https://bbs.kruapan.com)
+      
     + BD (SQL, Neo4j, Protege, Virtuoso) 
     + Unity (C#, Blender, MagicVoxel) 
         

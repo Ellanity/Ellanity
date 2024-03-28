@@ -2,29 +2,33 @@
 <div>
     <table style="padding: 0;">
         <tr style="
-            padding: 0; 
-            border-color: transparent;">
+                padding: 0; 
+                border-color: transparent;
+            ">
             <td valign="top"
                 style="
                     padding: 0; 
                     border-color: transparent; 
                     max-width: 40vh;
-                    " >
+                ">
                 <!--src="https://github.com/Ellanity/Ellanity/assets/60664484/5ffcd3e7-5751-4bd1-a72f-a2f2fe41e4a2"-->
                 <img
-                    src="./IMG_3168_2.JPG" 
+                    src="./img/IMG_3168_2.JPG" 
                     alt="my_pic" 
                     style="
                         margin: 0; 
-                        padding: 0"/>
+                        padding: 0
+                    "/>
             </td>
             <td valign="top" 
                 style="
                     border-color: transparent; 
-                    padding-top: 0;">
+                    padding-top: 0;
+                ">
                 <div style="
-                    padding: 0; 
-                    margin: 0;">
+                        padding: 0; 
+                        margin: 0;
+                    ">
                     <p> 
                         ✨ My name is Eldar Paplauski
                     </p> 
@@ -52,9 +56,6 @@
 - 💬 Ask me about: 
     + Python (Pure, Django, AI, ML)
     + Web (JS, HTML, CSS, Vue)
-
-        [Finished PC version of web project](https://bbs.kruapan.com)
-      
     + BD (SQL, Neo4j, Protege, Virtuoso) 
     + Unity (C#, Blender, MagicVoxel) 
         
@@ -71,6 +72,41 @@
     
     + I work with a CNC machine. I connect my pc to it via usb, use python, pyserial to send g-code commands. I need to understand how to instantly interrupt the current command (clear the buffer) and start a new one command.
     + PS. I found info about CNC jogging. Now I'm trying to apply this to solving my problem.
+
+<p align="center">
+    <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Ellanity&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+    <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ellanity&hide_border=true" />
+</p>
+
+## Links
+
+<p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.Paplauski.Tower&pli=1">
+        <img width="20%" src="https://play-lh.googleusercontent.com/94WTg8PdmEEmpNfRnfhZ0cUWsc5iXan9mbptuxadnHa_MCyab2fptmNTJ-xlPhETRfw=w480-h960" alt="Elpaca Tower">
+    </a>
+    <!--<a href="https://studiokars.by/">
+        <img width="20%" src="https://studiokars.by/img/logo.a26f5f17.png" alt="Studio Kars">
+    </a>
+    <a href="https://site.belburstroy.by">
+        <img width="20%" src="https://site.belburstroy.by/img/bbs-logo.3b2e7159.svg" alt="BelBurStroy">
+    </a>-->
+</p>
+
+<div align="center">
+    <img src="./img/logo/logo-transparent.png" width="3%">
+    <a href="https://github.com/Ellanity">
+        <img src="./img/logo/logo-social-github.png" width="6%" alt="GitHub">
+    </a>
+        <img src="./img/logo/logo-transparent.png" width="3%">
+    <a href="www.linkedin.com/in/eldar-paplauski">
+        <img src="./img/logo/logo-social-linkedin.png" width="6%" alt="LinkedIn">
+    </a>
+        <img src="./img/logo/logo-transparent.png" width="3%">
+    <a href="https://www.instagram.com/aila_mona/">
+        <img src="./img/logo/logo-social-instagram.png" width="6%" alt="Instagram">
+    </a>
+    <img src="./img/logo/logo-transparent.png" width="3%">
+</div>
 
 <!-- https://github.com/thombashi/pytablewriter/issues/13 
 <script>

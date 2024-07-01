@@ -33,9 +33,9 @@
                         ✨ My name is Eldar Paplauski
                     </p> 
                     <p> 
-                        ✨ I studied at the 
+                        ✨ I have completed my studies at the 
                         <a class="chaise-btn chaise-btn-secondary chaise-btn-iframe" href="https://www.bsuir.by/"><span class="chaise-btn-icon fullscreen-icon"></span><span>BSUIR University</span></a> (2020 - 2024)
-                        Faculty of Information Technology and Management, specialty Artificial Intelligence.
+                        Faculty of Information Technology and Management, specialty Artificial Intelligence. Now I am a certified specialist.
                     </p> 
                     <p> 
                         ✨ In school received a prize-winning diploma in regional olympiads in sports programming
@@ -51,15 +51,17 @@
 </div>
 
 
-- 🔭 I'am currently working on [My own](https://dev.kruapan.com) project
+- 🔭 I'am currently working on [My own](https://dev.kruapan.com) project, looking for people who are willing to work with me
 - 🌱 I'm currently learning: Vue, React
-- 💬 Ask me about: 
+- 💬 You can ask me about different technologies, I have experience in:
     + Python (Pure, Django, AI, ML)
     + Web (JS, HTML, CSS, Vue)
     + BD (SQL, Neo4j, Protege, Virtuoso) 
     + Unity (C#, Blender, MagicVoxel) 
         
         [My game Elpaca Tower](https://play.google.com/store/apps/details?id=com.Paplauski.Tower&pli=1)
+
+        First version is available in playstore. Work on the second version is expected to begin soon.
     
     + Design (Figma, Photoshop)
     + GRBL, Docker, Nginx and more other themes ...
@@ -71,8 +73,9 @@
 - 🤔 I'm looking for help with:
     
     + I work with a CNC machine. I connect my pc to it via usb, use python, pyserial to send g-code commands. I need to understand how to instantly interrupt the current command (clear the buffer) and start a new one command.
-    + PS. I found info about CNC jogging. Now I'm trying to apply this to solving my problem.
-
+      PS. I found info about CNC jogging. Now I'm trying to apply this to solving my problem.
+    + How to speed up video streaming from a surveillance camera to a PC over rj45
+      
 <p align="center">
     <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Ellanity&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
     <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ellanity&hide_border=true" />

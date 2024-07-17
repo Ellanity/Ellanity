@@ -101,7 +101,7 @@
         <img src="./img/logo/logo-social-github.png" width="6%" alt="GitHub">
     </a>
         <img src="./img/logo/logo-transparent.png" width="3%">
-    <a href="www.linkedin.com/in/eldar-paplauski">
+    <a href="https://www.linkedin.com/in/eldar-paplauski">
         <img src="./img/logo/logo-social-linkedin.png" width="6%" alt="LinkedIn">
     </a>
         <img src="./img/logo/logo-transparent.png" width="3%">

@@ -105,7 +105,7 @@
         <img src="./img/logo/logo-social-linkedin.png" width="6%" alt="LinkedIn">
     </a>
         <img src="./img/logo/logo-transparent.png" width="3%">
-    <a href="https://www.instagram.com/aila_mona/">
+    <a href="https://www.instagram.com/eldar.paplauski/">
         <img src="./img/logo/logo-social-instagram.png" width="6%" alt="Instagram">
     </a>
     <img src="./img/logo/logo-transparent.png" width="3%">

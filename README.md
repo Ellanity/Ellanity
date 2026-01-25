@@ -78,7 +78,7 @@
       
 <p align="center">
     <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Ellanity&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-    <img width="45%"  src="https://streak-stats.demolab.com/?user=Ellanity&hide_border=true" alt="GitHub Streak" />
+    <img width="45%"  src="https://streak-stats.demolab.com/?user=Ellanity" alt="GitHub Streak" />
 </p>
 
 ## Links
